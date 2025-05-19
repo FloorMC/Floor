@@ -6,7 +6,8 @@ Are you getting bored of the same, old `server.properties` file, and others? Are
 
 ## Made With
 
-- [Maven](https://github.com/apache/maven/?utm-source=https://github.com/FloorMC/Floor)
+- [Node.js](https://nodejs.org/?utm-source=https://github.com/FloorMC/Floor)
+- [TypeScript](https://typescriptlang.org/?utm-source=https://github.com/FloorMC/Floor)
 - [Visual Studio Code](https://code.visualstudio.com/?utm-source=https://github.com/FloorMC/Floor)
 
 ## Links
