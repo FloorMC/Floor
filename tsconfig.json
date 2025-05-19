@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
-    "target": "es2016",
-    "module": "ES2015",
+    "target": "ES2016",
+    "module": "CommonJS",
     "rootDir": "./src",
     "allowJs": true,
     "checkJs": true,
